@@ -7,7 +7,7 @@
 
   "env": {
     "SESSION_ID": {
-            "description": "Type the Session-ID you got from scaning QR",
+            "description": "LAKA-MD=41p23QjJ#_MegmYOMq1aD4gYMOeiPreXSnsHQxm2pWT4eWHx5QnM",
             "required": true,
             "value": ""
         }
